@@ -1,3 +1,6 @@
+/*
+Gita Gliaudytė, 2022
+*/
 #include <stdio.h>
 #include <ctype.h>
 #include <stdlib.h>
